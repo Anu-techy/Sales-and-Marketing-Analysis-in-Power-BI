@@ -6,10 +6,5 @@ To create an interactive Sales Dashboard for further Analysis with the preproces
 
 **Steps:**
 
-Creating mockup of the dashboard
-Creating Fianancial Metrics/Measures
-Creating a P & L table
-Creating Quarters, YTD/YTG Slicers
-Creating a Line chart to show Performance Over Time
-Build Top Product, Market & Region Visuals
-Add Net Profit
+1. Build Top Customers & Performance Matrix visuals
+2. Build Product Performance & Unit Economics Visuals
